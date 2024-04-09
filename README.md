@@ -1,4 +1,4 @@
-# 👨‍💻 Frontend Developer
+# 👨‍💻 FrontEnd Developer
 
 ## 📞 Contact
 
