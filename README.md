@@ -1,10 +1,8 @@
-# 👨‍💻 Amir Ariyan | Frontend Developer
+# 👨‍💻 Frontend Developer
 
 ## 📞 Contact
 
-- 📧 Email: [amir.ariyan.dev@gmail.com](mailto:amir.ariyan.dev@gmail.com)
-- 📱 Phone: 0917 474 1021
-- 🏠 Address: Tehran
+- 📧 Email: [amir.arian.dev@gmail.com](mailto:amir.arian.dev@gmail.com)
 
 ## 🌟 Professional Summary
 
@@ -13,7 +11,5 @@
 ## 💼 Skills
 
 - 💡 React, Next.js, Three.js
-- 🔗 Web3 Core, Blockchain Integration
-- 📱 Responsive Design
+- 🔗 Web3
 - 🎨 Tailwind CSS, Framer Motion, GSAP
-- 📊 SQL, Problem Solving
