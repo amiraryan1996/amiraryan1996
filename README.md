@@ -2,7 +2,7 @@
 
 ## 📞 Contact
 
-- 📧 Email: [amir.arian.dev@gmail.com](mailto:amir.arian.dev@gmail.com)
+- 📧 Email: [amir.ariyan.dev@gmail.com](mailto:amir.ariyan.dev@gmail.com)
 
 ## 🌟 Professional Summary
 
