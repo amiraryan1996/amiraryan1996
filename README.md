@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Amir Ariyan a Front-End Developer, specializing in JavaScript, TypeScript, and Next.js. I believe in the power of solid development principles and Agile methodologies, striving to build applications that are both functional and visually captivating.
+# 👋 Hi, my name is Amir Ariyan
+a Front-End Developer, specializing in JavaScript, TypeScript, and Next.js. I believe in the power of solid development principles and Agile methodologies, striving to build applications that are both functional and visually captivating.
 
 ## 💼 Skills
 
@@ -20,12 +21,6 @@ Enhanced UI interactivity and performance using JavaScript libraries.
 [**Phylon, Turkey**](http://phylon.io)  
 *Dec 2022 - May 2023*  
 Developed a decentralized escrow app with MetaMask for smart contract management.
-
-## 🎓 Education
-
-**Bachelor of Engineering**  
-*Shiraz University, Shiraz*  
-*Sep 2014 - Feb 2019*
 
 ## 🛠 Projects
 
