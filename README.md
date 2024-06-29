@@ -23,22 +23,16 @@
 ## 🏢 Experience
 
 ### Full-Time Front-End Developer
-**Behsa, Tehran**  
+[**Behsa, Tehran**](https://www.behsacorp.com)  
 *Sep 2023 - May 2024*
 
-- Leveraged JavaScript libraries to streamline code and enhance site interactivity, reducing development time and improving performance.
-- Implemented Farsi language support using JavaScript and CSS, enhancing platform accessibility.
-- Led the redesign of the Siebel Platform, utilizing JavaScript, Ajax, and jQuery for DOM manipulation.
-- Built simple JavaScript-based interfaces for generating SQL-driven reports.
-- Engineered 3D visualizations with Three.js and WebGL for dynamic user experiences.
+- Enhanced UI interactivity and performance using JavaScript libraries.
 
 ### Remote Front-End Developer
-**Phylon, Turkey**  
+[**Phylon, Turkey**](http://phylon.io)  
 *Dec 2022 - May 2023*
 
-- Developed a decentralized escrow application with MetaMask integration for smart contract management.
-- Enhanced application performance with code-splitting, memoization, and optimized re-rendering.
-- Applied WebGL and Three.js for interactive 3D visualizations.
+- Developed a decentralized escrow app with MetaMask for smart contract management.
 
 ## 🎓 Education
 
@@ -52,10 +46,8 @@
 
 ## 🛠 Projects
 
-### Luna Labs
-- Integrated GreenSock Animation Platform with Framer Motion to create a dynamic single-page application with a mobile-first design.
+### [Luna Labs](https://luna-lac.vercel.app/)
+- Created a dynamic single-page application using GSAP and Framer Motion.
 
 ### Human’s Window
-- Developed a 2D animation suite using R3F, Drei, and Three.js within a Next.js framework for a gaming platform.
-- Implemented advanced graphics techniques such as texture changes and SVG loading for enhanced visual engagement.
-- Engineered a clean code structure for the canvas component, optimizing performance and maintainability.
+- Developed a 2D animation suite with R3F and Three.js for a gaming platform.
