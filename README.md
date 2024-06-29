@@ -2,14 +2,11 @@
 
 ## 📞 Contact
 
-- 📧 Email: [amir.ariyan.dev@gmail.com](mailto:amir.ariyan.dev@gmail.com)
-- 🌐 LinkedIn: [linkedin.com/in/amir-ariyan-4167ba145](https://www.linkedin.com/in/amir-ariyan-4167ba145)
+- 📧 [Email](mailto:amir.ariyan.dev@gmail.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/amir-ariyan-4167ba145)
 - 📍 Location: Tehran
-- 📞 Phone: (+98) 905-1856633
 
-## 🌟 Professional Summary
-
-🚀 Front-End Developer specialized in JavaScript, TypeScript, and Next.js. Committed to solid guidelines, Agile principles, and fine development practices. Passionate about integrated learning and staying up to date with emerging technologies, with a keen eye for conceptual design.
+🚀 Front-End Developer specialized in JavaScript, TypeScript, and Next.js. Committed to solid guidelines, Agile principles, and fine development practices.
 
 ## 💼 Skills
 
@@ -17,8 +14,8 @@
 - **Frameworks**: React, Next.js, Three.js
 - **Styling**: Tailwind CSS, Framer Motion, GSAP
 - **Web3**: MetaMask, Polygon, Ethereum
-- **Tools**: Radix, Shadcn, React Query, Axios, Git
-- **Others**: RESTful API, R3F, WebGL, jQuery
+- **Tools**: zustand, Shadcn, React Query, Axios, Git
+- **Others**: RESTful API, Graphql, R3F, WebGL, jQuery
 
 ## 🏢 Experience
 
