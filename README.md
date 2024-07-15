@@ -1,4 +1,4 @@
-# 👋 Hi, my name is Amir Ariyan
+# 👋 Hi, my name is Amir Aryan
 Front-End Developer, specializing in JavaScript, TypeScript, and Next.js. I believe in the power of solid development principles and Agile methodologies, striving to build applications that are both functional and visually captivating.
 
 ## 💼 Skills
