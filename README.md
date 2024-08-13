@@ -4,7 +4,7 @@ Front-End Developer, specializing in JavaScript, TypeScript, and Next.js. I beli
 ## 💼 Skills
 
 - **Languages**: JavaScript, TypeScript
-- **Frameworks**: React, Next.js, Three.js
+- **Frameworks**: Next.js
 - **Styling**: Tailwind CSS, Framer Motion, GSAP
 - **Web3**: MetaMask, Polygon, Ethereum
 - **Tools**: zustand, radix, React Query, Axios, Git
@@ -12,5 +12,5 @@ Front-End Developer, specializing in JavaScript, TypeScript, and Next.js. I beli
 
 ## 📞 Contact
 
-- 📧 [Email](mailto:amir.ariyan.dev@gmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/amir-ariyan-4167ba145)
+- 📧 [Email](mailto:amir.aryan.dv@gmail.com)
+- 🌐 [LinkedIn](www.linkedin.com/in/amir-aryan-4167ba145)
