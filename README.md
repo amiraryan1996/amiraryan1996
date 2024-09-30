@@ -12,4 +12,4 @@ Front-End Developer, specializing in JavaScript, TypeScript, and React.js. I bel
 ## 📞 Contact
 
 - 📧 [Email](mailto:amir.aryan.dv@gmail.com)
-- 🌐 [LinkedIn](www.linkedin.com/in/amiraryan1996)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/amiraryan1996/)
